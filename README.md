@@ -15,7 +15,7 @@ Thanks to the comprehensive education I received at UTFSM, I have developed know
 - **Esports:** I love esports and competitive gameplay. I used to play in Call of Duty tournaments and enjoy staying updated on the latest in competitive gaming.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/luiscorralesp/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](([https://www.linkedin.com/in/luiscorralesp/](https://www.linkedin.com/in/luiscorralesp/)))
 
 ## 📫 Contact:
 - **Email:** [luis.corrales@sansano.usm.cl](mailto:luis.corrales@sansano.usm.cl)
