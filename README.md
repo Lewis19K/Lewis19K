@@ -20,6 +20,7 @@ Thanks to the comprehensive education I received at UTFSM, I have developed know
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiscorralesp/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-%23000000.svg?style=flat&logo=google-chrome&logoColor=white)](https://luiscorrales.netlify.app/)
 
 ## 📫 Contact
 
